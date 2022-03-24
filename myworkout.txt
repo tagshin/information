@@ -1,5 +1,5 @@
 {
-  "Information" : [
+  "infoData" : [
     {
       "date" : "20220324",
       "info" : "SampleProgram1.json",
