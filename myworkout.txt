@@ -2,7 +2,7 @@
   "infoData" : [
     {
       "date" : "20220324",
-      "info" : "SampleProgram1.json",
+      "info" : "機能が追加されました。\n・機能１\n・機能２\n・機能３",
     },
     {
       "date" : "20220323",
