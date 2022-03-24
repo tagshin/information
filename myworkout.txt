@@ -1,1 +1,20 @@
-NEWS 
+{
+  "Information" : [
+    {
+      "date" : "20220324",
+      "info" : "SampleProgram1.json",
+    },
+    {
+      "date" : "20220323",
+      "info" : "SampleProgram1.json",
+    },
+    {
+      "date" : "20220322",
+      "info" : "SampleProgram1.json",
+    },
+    {
+      "date" : "20220321",
+      "info" : "SampleProgram1.json",
+    }
+  ]
+}
