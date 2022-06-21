@@ -4,6 +4,8 @@
       "date" : "20220512",
       "title" : "Version 5.4 Release",
       "text" : "Assists in setting the load for barbell events. (Displays left and right plate weights excluding shaft weight when recording loads.)\nThe interval of the last set of a part can be skipped. (The interval time for the last set of a part can be set.)\nAdditional events, improved operability, and bug fixes have been made.",
+      "linkName" : "Click Here!!",
+      "linkUrl" : "https://twitter.com/intent/tweet?url=https://stage72.wixsite.com/apps/myworkout&text=%E7%AD%8B%E3%83%88%E3%83%AC%E3%82%A2%E3%83%97%E3%83%AA%E3%80%8CMy+Workout%E3%80%8D%0D%0A%40stage_7_"
     },
     {
       "date" : "20000101",
