@@ -1,6 +1,13 @@
 {
   "infoData" : [
     {
+      "date" : "20220621",
+      "title" : "プロモーション",
+      "text" : "",
+      "linkName" : "ここをタップしてツイート",
+      "linkUrl" : "https://twitter.com/intent/tweet?url=https://stage72.wixsite.com/apps/myworkout&text=%E7%AD%8B%E3%83%88%E3%83%AC%E3%82%A2%E3%83%97%E3%83%AA%E3%80%8CMy+Workout%E3%80%8D%0D%0A%40stage_7_",
+    },
+    {
       "date" : "20220512",
       "title" : "Version 5.4リリース",
       "text" : "バーベル種目の負荷設定を補助します。（負荷記録時にシャフト重量を除いた左右プレート重量を表示します）\n部位の最終セットのインターバルをスキップできます。（部位最終セットのインターバル時間を設定できます）\n種目の追加、操作性の改善、不具合修正を行いました。",
