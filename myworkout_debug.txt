@@ -2,7 +2,7 @@
   "infoData" : [
     {
       "date" : "20220621",
-      "title" : "プロモーション",
+      "title" : "下のリンクからツイートを投稿して下さった全員に、My Workout の有償機能を１カ月利用できるプロモーションコードを差し上げています。 （ツイートされたアカウント宛にプロモーションコードをDMにてお送りいたします。）",
       "text" : "",
       "linkName" : "ここをタップしてツイート",
       "linkUrl" : "https://twitter.com/intent/tweet?url=https://stage72.wixsite.com/apps/myworkout&text=%E7%AD%8B%E3%83%88%E3%83%AC%E3%82%A2%E3%83%97%E3%83%AA%E3%80%8CMy+Workout%E3%80%8D%0D%0A%40stage_7_",
