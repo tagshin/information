@@ -1,0 +1,9 @@
+{
+  "infoData" : [
+    {
+      "date" : "20220512",
+      "title" : "Version 5.4リリース",
+      "text" : "Assists in setting the load for barbell events. (Displays left and right plate weights excluding shaft weight when recording loads.)\nThe interval of the last set of a part can be skipped. (The interval time for the last set of a part can be set.)\nAdditional events, improved operability, and bug fixes have been made.",
+    }
+  ]
+}
