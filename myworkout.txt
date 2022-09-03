@@ -1,6 +1,13 @@
 {
   "infoData" : [
     {
+      "date" : "20220903",
+      "title" : "プロモーションコード・プレゼント",
+      "text" : "下のリンクからツイートを投稿して下さった方全員に、プレミアムプランを１カ月利用できるプロモーションコードを差し上げています。\n（ツイートされたアカウント宛にDMでお送りします。※既定の文面は削除しないでください）",
+      "linkName" : "ここをタップしてツイート",
+      "linkUrl" : "https://twitter.com/intent/tweet?url=https://stage72.wixsite.com/apps/myworkout&text=%E7%AD%8B%E3%83%88%E3%83%AC%E3%82%A2%E3%83%97%E3%83%AA%E3%80%8CMy+Workout%E3%80%8D%0D%0A%40stage_7_",
+    },
+    {
       "date" : "20220815",
       "title" : "Version 5.5.3リリース",
       "text" : "ヒストリーに記録を追加できない不具合を修正しました。",
