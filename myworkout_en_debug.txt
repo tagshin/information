@@ -1,11 +1,9 @@
 {
   "infoData" : [
     {
-      "date" : "20220621",
-      "title" : "プロモーションコード・プレゼント",
-      "text" : "下のリンクからツイートを投稿して下さった全員に、プレミアムプランを１カ月利用できるプロモーションコードを差し上げています（ツイートされたアカウント宛にDMでお送りします）",
-      "linkName" : "ここをタップしてツイート",
-      "linkUrl" : "https://twitter.com/intent/tweet?url=https://stage72.wixsite.com/apps/myworkout&text=%E7%AD%8B%E3%83%88%E3%83%AC%E3%82%A2%E3%83%97%E3%83%AA%E3%80%8CMy+Workout%E3%80%8D%0D%0A%40stage_7_",
+      "date" : "20220920",
+      "title" : "Version 6 Release",
+      "text" : "Four new exercises have been added for step-type cardio workouts.\nCharts are integrated into the history. You can aggregate your records by month, year, or entire period.\nFunctions for managing programs are integrated in the sidebar. You can edit multiple plans simultaneously.\niOS 16 is now supported.",
     },
     {
       "date" : "20220512",
