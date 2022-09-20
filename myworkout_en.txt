@@ -1,6 +1,11 @@
 {
   "infoData" : [
     {
+      "date" : "20220920",
+      "title" : "Version 6 Release",
+      "text" : "Four new exercises have been added for step-type cardio workouts.\nCharts are integrated into the history. You can aggregate your records by month, year, or entire period.\nFunctions for managing programs are integrated in the sidebar. You can edit multiple programs simultaneously.\niOS 16 is now supported.",
+    },
+    {
       "date" : "20220512",
       "title" : "Version 5.4リリース",
       "text" : "Assists in setting the load for barbell events. (Displays left and right plate weights excluding shaft weight when recording loads.)\nThe interval of the last set of a part can be skipped. (The interval time for the last set of a part can be set.)\nAdditional events, improved operability, and bug fixes have been made.",
