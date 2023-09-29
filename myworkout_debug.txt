@@ -2,7 +2,7 @@
   "infoData" : [
     {
       "date" : "20220930",
-      "title" : "watchOS 10の問題について",
+      "title" : "watchOS 10の問題について(2)",
       "text" : "最新のwatchOS 10(10.0/10.0.1)においてiPhoneとの同期に時間がかかる問題への対応として、watchOS 10のみで利用可能な「ダイレクト転送」機能をベータ版として先行リリースします。\n下記のリンクより使用方法をご確認の上、ご利用ください。",
       "linkName" : "「ダイレクト転送」機能の使用方法",
       "linkUrl" : "https://stage72.wixsite.com/apps/my-workout-beta",
