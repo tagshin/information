@@ -2,8 +2,10 @@
   "infoData" : [
     {
       "date" : "20231012",
-      "title" : "<<重要>>",
-      "text" : "最新のwatchOS 10において、iPhoneとの同期に時間がかかる（同期が不十分な）状態でApple Watchで記録を行うと、過去の記録に不整合が発生する可能性があります。\nwatchOS 10でのMy Workoutのご利用（記録）は直ちに中止し、Apple Watchからアプリを削除してください。\nアプリの削除方法は、iPhoneで「Watch」アプリを開く -> アプリ一覧でMy Workoutを選択 -> 「アプリをApple Watchで表示」をオフにする",
+      "title" : "<<重要>> watchOS 10での利用について",
+      "text" : "最新のwatchOS 10において、iPhoneとの同期に時間がかかる（同期が不十分な）状態でApple Watchで記録を行うと、過去の記録に不整合が発生する可能性があります。\n対策を施したMy Workoutの最新バージョン（6.3.3）にアップデートしてご利用ください。",
+      "linkName" : "My Workoutをアップデート",
+      "linkUrl" : "https://apps.apple.com/app/id1513094702",
     },
     {
       "date" : "20230926",
