@@ -1,6 +1,11 @@
 {
   "infoData" : [
     {
+      "date" : "20250502",
+      "title" : "macOSでの利用について",
+      "text" : "My WorkoutはmacOS Sequoia(macOS 15)以降のAppleシリコン搭載Macにおいてインストールが可能ですが、動作環境としてはサポート対象外となります。また利用可能な機能は限定されます。\nmacOS 13/14にインストールしたMy Workoutは正しく動作しません。不慮のデータ損失を避けるためにアンインストールするかmacOS Sequoia(macOS 15)にアップデートして下さい。"
+    },
+    {
       "date" : "20250320",
       "title" : "Version 7.2.1リリース",
       "text" : "Apple Watchの主要操作（インターバル開始や30秒進めるなど）をダブルタップで実行できます。（watchOS 11にアップデートしたダブルタップジェスチャ対応機種（Apple Watch Series 9/10、Apple Watch Ultra 2）のみで利用可能です）\nプランに設定したメニューごとにガイド方法を変更（セット内容を優先・メニューの無効化）できます。"
